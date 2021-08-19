@@ -1,4 +1,5 @@
-### Hi there 👋
+
+# Hi, I'm Pedro Mesquita Guedes =)
 
 <!--
 **terrotar/terrotar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,15 +19,15 @@ Here are some ideas to get you started:
 - :notebook: I'm currently studying Development and Analisys of Systems.
 - :computer: I enjoy a lot of areas, such as Web Development, machine learning, AI and security but mostly of my projects are from Web and focused in Python back-end.
 - :office: I've never worked with technology and I'm searching for an opportunity to work with programming.
-- ⚡ Funny facts: - :black_circle: My wardrobre has an awsome color palette of black xD
--                 - :guitar: I like a lot to play guitar
--                 - :palm_tree: I'm from brazil :sunglasses:
+- ⚡ Funny facts:
+- :black_circle: My wardrobre has an awsome color palette of black xD
+- :guitar: I like a lot to play guitar
+- :palm_tree: I'm from brazil :sunglasses:
 
 
 ### About me
 
-
-# Hi, I'm Pedro Mesquita Guedes and I'm a programmer focused in web development back-end, but not limited to that area. I have a couple projects, including API's, Blogs, and other themes, mostly of them developed in Python/Flask with HTML/CSS and Bootstrap. Currently I'm unemployed and I have been searching for a job and while that I'm studying and developing projects to improve my programming skills. Feel free to contact me and clone, comment or whatever with my projects, just please give the reference of my GitHub if you use them =]
+I'm a programmer focused in web development back-end, but not limited to that area. I have a couple projects, including API's, Blogs, and other themes, mostly of them developed in Python/Flask with HTML/CSS and Bootstrap. Currently I'm unemployed and I have been searching for a job and while that I'm studying and developing projects to improve my programming skills. Feel free to contact me and clone, comment or whatever with my projects, just please give the reference of my GitHub if you use them =]
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/terrotar)](https://github.com/terrotar)
