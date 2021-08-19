@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - :computer: I enjoy a lot of areas, such as Web Development, machine learning, AI and security but mostly of my projects are from Web and focused in Python back-end.
 - :office: I've never worked with technology and I'm searching for an opportunity to work with programming.
 - ⚡ Funny facts:
-                  - :black_circle: My wardrobre has an awsome color palette of black xD
-                  - :guitar: I like a lot to play guitar
-                  - :palm_tree: I'm from brazil :sunglasses:
+- :black_circle: My wardrobre has an awsome color palette of black xD
+- :guitar: I like a lot to play guitar
+- :palm_tree: I'm from brazil :sunglasses:
 
 
 
