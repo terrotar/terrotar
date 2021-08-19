@@ -1,5 +1,5 @@
 
-# Hi, I'm Pedro Mesquita Guedes =)
+# Hi, I'm Pedro Mesquita Guedes =]
 
 
 
