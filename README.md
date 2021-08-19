@@ -40,3 +40,5 @@ I'm a programmer focused in web development back-end, but not limited to that ar
 
 
 - [Courses](https://www.impacta.edu.br/graduacoes/analise-e-desenvolvimento-de-sistemas) :mortar_board: - It's a technology course of 2 years(I'm in the last one) of Development and Analisys of Systems by Faculdade Impacta de Tecnologia.
+
+:blue_book: Usually I study by Documentation of the tools I use, like Flask, Bootstrap, API's and libraries.
