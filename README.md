@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username={username}">
+<img src="https://github-readme-stats.vercel.app/api?username={terrotar}">
 <img src="
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}">
+https://github-readme-stats.vercel.app/api/top-langs/?username={terrotar}">
 
 
 
