@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white]
+
+
+
+
+
 - :notebook: I'm currently studying Development and Analisys of Systems.
 - :computer: I enjoy a lot of areas, such as Web Development, machine learning, AI and security but mostly of my projects are from Web and focused in Python back-end.
 - :office: I've never worked with technology and I'm searching for an opportunity to work with programming.
