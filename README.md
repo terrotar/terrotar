@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 
-:wink: ### About me
+### About me :wink:
 
 I'm a programmer focused in web development back-end, but not limited to that area. I have a couple projects, including API's, Blogs, and other themes, mostly of them developed in Python/Flask with HTML/CSS and Bootstrap. Currently I'm unemployed and I have been searching for a job and while that I'm studying and developing projects to improve my programming skills. Feel free to contact me and clone, comment or whatever with my projects, just please give the reference of my GitHub if you use them =]
 
