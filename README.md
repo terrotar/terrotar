@@ -34,15 +34,14 @@ Languages and Tools :nut_and_bolt:
 
 
 
-- :notebook: I'm currently studying Development and Analisys of Systems.
 - :computer: I enjoy a lot of areas, such as Web Development, machine learning, AI and security but mostly of my projects are from Web and focused in Python back-end.
-- :office: I've never worked with technology and I'm searching for an opportunity to work with programming.
+- :office: I'm working currently with Data Science as a Back-End Developer.
 
 
 
 ### About me :wink:
 
-I'm a programmer focused in web development back-end, but not limited to that area. I have a couple projects, including API's, Blogs, and other themes, mostly of them developed in Python/Flask with HTML/CSS and Bootstrap. Currently I'm unemployed and I have been searching for a job and while that I'm studying and developing projects to improve my programming skills. Feel free to contact me and clone, comment or whatever with my projects, just please give the reference of my GitHub if you use them =]
+I'm a programmer focused in web development Back-End, but not limited to that area. I have a couple projects, including API's, Blogs, and other themes, mostly of them developed in Python/Flask with HTML/CSS and Bootstrap. Feel free to contact me and clone, comment or whatever with my projects, just please give the reference of my GitHub if you use them =]
 
 
 
