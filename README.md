@@ -45,6 +45,6 @@ I'm a programmer focused in web development Back-End, but not limited to that ar
 
 
 
-- [Courses](https://www.impacta.edu.br/graduacoes/analise-e-desenvolvimento-de-sistemas) :mortar_board: - It's a technology course of 2 years(I'm in the last one) of Development and Analisys of Systems by Faculdade Impacta de Tecnologia. Anothers certifications in my LinkedIn's Profile[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrog48611b13b/)](https://www.linkedin.com/in/pedrog48611b13b/).
+- [Courses](https://www.impacta.edu.br/graduacoes/analise-e-desenvolvimento-de-sistemas) :mortar_board: - It's a technology course of 2 years(I'm in the last one) of Development and Analisys of Systems by Faculdade Impacta de Tecnologia. Anothers certifications in my LinkedIn's Profile ! ==> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrog48611b13b/)](https://www.linkedin.com/in/pedrog48611b13b/)
 
 :blue_book: Usually I study by Documentation of the tools I use, like Flask, Bootstrap, API's and libraries.
