@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrotar&theme=radical&show_icons=true&icon_color=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrotar&theme=radical&show_icons=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terrotar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
