@@ -2,7 +2,7 @@
 
 **Azure Data Engineer** | Building scalable data pipelines on Microsoft Azure
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/terrotar)](https://github.com/terrotar)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/terrotar)](https://github.com/pedro-guedes-data)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-guedes-dados/)](https://www.linkedin.com/in/pedro-guedes-data/)
 
 ---
@@ -56,7 +56,7 @@ I also have hands‑on experience with **Microsoft Fabric** (unified lakehouse, 
 ## 📫 Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-guedes-dados/)
-- [GitHub](https://github.com/terrotar)
+- [GitHub](https://github.com/pedro-guedes-data)
 
 ---
 
