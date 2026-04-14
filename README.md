@@ -51,7 +51,7 @@ I also have hands‑on experience with **Microsoft Fabric** (unified lakehouse, 
 - **Systems Analysis and Development** – Faculdade Impacta (completed)
 - **AZ-900: Microsoft Azure Fundamentals** – Certified
 
-More details on my [LinkedIn](https://www.linkedin.com/in/pedro-guedes-dados/).
+More details on my [LinkedIn].
 
 ---
 
