@@ -32,7 +32,7 @@
 
 ## 📌 About Me
 
-I'm an **Azure Data Engineer (Mid-Level)** currently at **Dataside**, building and orchestrating ETL/ELT pipelines using:
+I'm an **Azure Data Engineer (Mid-Level)**, building and orchestrating ETL/ELT pipelines using:
 
 - **Azure Data Factory** – ingestion from SQL databases and REST APIs
 - **Databricks + PySpark** – distributed processing & medallion architecture (bronze → silver → gold)
